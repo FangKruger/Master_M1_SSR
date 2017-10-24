@@ -1,0 +1,4 @@
+echo>0 /proc/sys/kernel/yama/ptrace_scope 
+
+Pour pouvoir attraper les processus. A rentrer à chaque début de reboot de la vm.
+
