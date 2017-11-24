@@ -1,3 +1,12 @@
+/*
+*
+*SEL TP
+*Author: Manon Derocles & Fanny Prieur
+*
+*
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

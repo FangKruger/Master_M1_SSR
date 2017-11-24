@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -g -Wall -Werror
-SRC = tp1.c
+SRC = tp1.c tp1.h
 OBJ = tp1.o
 
 main: $(OBJ)
